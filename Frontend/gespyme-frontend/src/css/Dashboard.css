@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+}
+
+.menu-container {
+    display: flex;
+    width: 10rem;
+    height: 100vh;
+    background-color: #26282E;
+}
+
+.li-dashboard {
+    list-style: none;
+    margin-bottom: 1rem;
+}
+
+.a-dashboard {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.a-dashboard:hover {
+    color: #7C6F6B;
+}
+
+.content-container {
+    padding: 1.5rem;
+    flex: 1 1 0%;
+    color: #FFFFFF;
+    background-color: #7E837F;
+}
+
+h1 {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    font-weight: 600;
+}
+
+p {
+    margin-top: 1rem;
+}

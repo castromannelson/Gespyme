@@ -1,0 +1,14 @@
+:root {
+  --primary-color: #99582a; /* Azul oscuro */
+  --secondary-color: #432818; /* Rojo */
+  --background-color: #ffe6a7; /* Blanco roto */
+  --text-color: #6f1d1b; /* Azul oscuro más suave */
+  --button-color: #bb9457; /* Azul intermedio */
+  --button-hover-color: #99582a; /* Azul oscuro */
+}
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: var(--background-color);
+}
